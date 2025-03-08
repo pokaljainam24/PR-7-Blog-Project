@@ -64,6 +64,12 @@ This is a blog application built with Node.js, Express, MongoDB, and EJS for tem
 2. Login: Use your credentials at /loginForm.
 3. Authorization: Admin-only routes are protected by middleware.
 
+## Default Credentials
+
+Username: jainam
+
+Password: 1234
+
 ## 📸 Screenshots
 
 1.**[Authentication Form Page]**  ![image](https://github.com/user-attachments/assets/a9422b85-d96c-45e4-af42-363e72d0b7b9) <!-- Add screenshots in a 'screenshots' folder -->
